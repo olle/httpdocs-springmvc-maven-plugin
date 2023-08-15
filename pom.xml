@@ -17,7 +17,7 @@
         <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
         <maven-plugin-plugin.version>3.6.0</maven-plugin-plugin.version>
         <!-- Dependency Versions -->
-        <maven-core.version>3.6.3</maven-core.version>
+        <maven-core.version>3.8.1</maven-core.version>
         <maven-plugin-api.version>3.6.3</maven-plugin-api.version>
         <plexus-utils.version>3.3.0</plexus-utils.version>
         <maven-plugin-annotations.version>3.6.0</maven-plugin-annotations.version>
